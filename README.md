@@ -1,5 +1,6 @@
 # ECON 5200: Consulting Report — Final Project
 ## Do Commercial Airbnb Operators Extract More Housing from San Francisco's Rental Market?
+## Julián Santos Vasquez
 **Northeastern University | Spring 2026**
 
 ---
@@ -91,12 +92,12 @@ jupyter notebook 5200_final_sf_airbnb.ipynb
 
 ## Deliverables
 
-* Checkpoint notebook + proposal — due Apr 19
-* Streamlit dashboard (deployed) — due Apr 26
-* Executive Summary PDF — due Apr 26
-* Technical Report PDF — due Apr 26
-* Threats to Identification PDF — due Apr 26
-* AI Methodology Appendix PDF — due Apr 26
+* Checkpoint notebook + proposal
+* Streamlit dashboard (deployed) 
+* Executive Summary  
+* Technical Report 
+* Threats to Identification 
+* AI Methodology Appendix 
 
 ---
 
