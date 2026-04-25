@@ -3,7 +3,7 @@
 ## Julián Santos Vasquez
 **Northeastern University | Spring 2026**
 
-##Streamlit Permanent URL 
+**Streamlit Permanent URL**
 https://econ5200final-frdna84rwhbkjgccdmzbca.streamlit.app/
 
 ---
