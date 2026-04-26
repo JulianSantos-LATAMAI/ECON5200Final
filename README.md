@@ -85,7 +85,7 @@ econ5200-final/
 ## How to Reproduce
 
 ```bash
-git clone https://github.com/yourusername/econ5200-final
+git clone https://github.com/JulianSantos-LATAMAI/econ5200-final
 cd econ5200-final
 pip install -r requirements.txt
 jupyter notebook 5200_final_sf_airbnb.ipynb
